@@ -1,0 +1,1 @@
+pandas>=2.0\nnumpy>=1.24\nmatplotlib>=3.7\nopenpyxl>=3.1\npython-docx>=1.1\nnbformat>=5.9\n

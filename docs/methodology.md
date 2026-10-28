@@ -1,0 +1,1 @@
+# Methodology\n\nTarget: daily closing price. First 1006 observations train the model; remaining 252 test it. The 20-day moving average uses the previous 20 observed closes. Linear regression fits Close = intercept + slope × time index on training data only. MAE, RMSE and MAPE are calculated on the holdout. Future forecasts are illustrative and not investment advice.\n
